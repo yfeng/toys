@@ -5,8 +5,8 @@ import chardet
 '''
 一个自动填写平安日报的工具
 '''
-username='ex-raoqinian001'
-passwd='RAOQINIAN11576'
+username=''
+passwd=''
 domain="http://timesheetv2.paic.com.cn/timesheet"
 headers = {
 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; rv:18.0) Gecko/20100101 Firefox/18.0',
