@@ -1,5 +1,5 @@
 #lang racket
-(define (run v)
+(define (doit v)
   (define l '())  
   (cond    
     [(empty? v) "empty list"] 
